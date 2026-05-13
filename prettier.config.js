@@ -1,4 +1,4 @@
-// Prettier configuration for Space-proxy
+// Prettier configuration for Brody-proxy
 // See https://prettier.io/docs/en/options.html for all options
 module.exports = {
     tabWidth: 4, // Use 4 spaces per indentation level
