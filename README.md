@@ -1,5 +1,5 @@
 <div align="center">
-        <img src="https://i.imgur.com/OMo4cMz.png" style="width: 1200px"/>
+        <img src="https://s5.ezgif.com/tmp/ezgif-551078c23c109dec.png" style="width: 1200px"/>
     <h2>Launch into Space, the next gen proxy.</h2>
 </div>
 
