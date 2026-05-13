@@ -1,6 +1,6 @@
 <div align="center">
         <img src="https://i.imgur.com/OMo4cMz.png" style="width: 1200px"/>
-    <h2>Launch into Space, the next gen proxy.</h2>
+    <h2>Launch into Brodywrld, the next gen proxy.</h2>
 </div>
 
 ![inpreview](https://i.imgur.com/VhNNgOs.jpeg)
