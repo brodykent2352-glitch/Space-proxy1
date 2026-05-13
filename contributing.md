@@ -1,4 +1,4 @@
-# Contributing to Space
+# Contributing to Brodywrld
 
 First of all, thanks for taking interest in the project!
 
