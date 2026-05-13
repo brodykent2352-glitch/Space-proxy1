@@ -1,5 +1,6 @@
 <div align="center">
-        <img src="https://i.imgur.com/OMo4cMz.png" style="width: 1200px"/>
+        <img src="<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/b77e2592-39b8-4b2c-b9bd-561cc9eecbe9" />
+" style="width: 1200px"/>
     <h2>Launch into Brodywrld, the next gen proxy.</h2>
 </div>
 
